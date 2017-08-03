@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rizqi.bottomnavigation.MainActivityBottomNavigation">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_all_out_black_24dp"
+        android:title="Home"
+
+         /><item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_apps_black_24dp"
+        android:title="Dashboard"
+
+         /><item
+        android:id="@+id/navigation_notif"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Notif"
+
+         />
+
+</menu>
